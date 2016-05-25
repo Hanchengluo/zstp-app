@@ -18,7 +18,7 @@
 
 	.deploy-left-sidebar{	background-image:url(../ke01_img/nav.png);	 			-webkit-background-size: 18px 12px;}
 
-	.deploy-right-sidebar{	background-image:url(../ke01_img/contact.png);	 	-webkit-background-size: 18px 12px;}
+	.deploy-right-sidebar{	background-image:url(../ke01_img/contact.png);	 	-webkit-background-size: 20px 20px;}
 
 
 
@@ -30,41 +30,41 @@
 
 
 
-	.nav-portfolio{	background-image:url(../ke01_img/folio@2x.png);	-webkit-background-size: 51px 51px;}
+	.nav-portfolio{	background-image:url(../ke01_img/folio.png);	-webkit-background-size: 51px 51px;}
 
-	.nav-videos{	background-image:url(../ke01_img/video@2x.png);	-webkit-background-size: 51px 51px;}
+	.nav-videos{	background-image:url(../ke01_img/video.png);	-webkit-background-size: 51px 51px;}
 
-	.nav-blog{		background-image:url(../ke01_img/blog@2x.png);		-webkit-background-size: 51px 51px;}
-
-
-
-	.nav-mobile{	background-image:url(../ke01_img/phone@2x.png);	-webkit-background-size: 51px 51px;}
-
-	.nav-sms{		background-image:url(../ke01_img/chat@2x.png);		-webkit-background-size: 51px 51px;}
-
-	.nav-mail{		background-image:url(../ke01_img/mail@2x.png);		-webkit-background-size: 51px 51px;}
+	.nav-blog{		background-image:url(../ke01_img/blog.png);		-webkit-background-size: 51px 51px;}
 
 
 
-	.icon-heading{	background-image:url(../ke01_img/heading@2x.png);	-webkit-background-size: 20px 20px;}
+	.nav-mobile{	background-image:url(../ke01_img/phone.png);	-webkit-background-size: 51px 51px;}
+
+	.nav-sms{		background-image:url(../ke01_img/chat.png);		-webkit-background-size: 51px 51px;}
+
+	.nav-mail{		background-image:url(../ke01_img/mail.png);		-webkit-background-size: 51px 51px;}
 
 
 
-	.deploy-share{	background-image:url(../ke01_img/go-home@2x.png); -webkit-background-size:16px 16px;}
-
-	.deploy-menu{	background-image:url(../ke01_img/nav-deploy@2x.png); -webkit-background-size:16px 16px;}
+	.icon-heading{	background-image:url(../ke01_img/heading.png);	-webkit-background-size: 20px 20px;}
 
 
+
+	.deploy-share{	background-image:url(../ke01_img/go-home.png); -webkit-background-size:16px 16px;}
+
+	.deploy-menu{	background-image:url(../ke01_img/nav-deploy.png); -webkit-background-size:16px 16px;}
 
 
 
 
 
-	.swipe-null-box{	background-image:url(../ke01_img/empty@2x.png); -webkit-background-size:16px 16px;}
 
-	.swipe-check-box{	background-image:url(../ke01_img/cross@2x.png); -webkit-background-size:16px 16px;}
 
-	.swipe-tick-box{	background-image:url(../ke01_img/tick@2x.png);	 -webkit-background-size:16px 16px;}
+	.swipe-null-box{	background-image:url(../ke01_img/empty.png); -webkit-background-size:16px 16px;}
+
+	.swipe-check-box{	background-image:url(../ke01_img/cross.png); -webkit-background-size:16px 16px;}
+
+	.swipe-tick-box{	background-image:url(../ke01_img/tick.png);	 -webkit-background-size:16px 16px;}
 
 
 
@@ -152,9 +152,9 @@
 
 
 
-	.show-toggle-v5{		background-image:url(../ke01_img/minus@2x.png);			-webkit-background-size:12px 12px;		}
+	.show-toggle-v5{		background-image:url(../ke01_img/minus.png);			-webkit-background-size:12px 12px;		}
 
-	.hide-toggle-v5{		background-image:url(../ke01_img/plus@2x.png);				-webkit-background-size:12px 12px;		}
+	.hide-toggle-v5{		background-image:url(../ke01_img/plus.png);				-webkit-background-size:12px 12px;		}
 
 
 
@@ -164,9 +164,9 @@
 
 
 
-	.show-toggle-v3{		background-image:url(../ke01_img/switch-on@2x.png); 		-webkit-background-size:61px 27px;		}
+	.show-toggle-v3{		background-image:url(../ke01_img/switch-on.png); 		-webkit-background-size:61px 27px;		}
 
-	.hide-toggle-v3{		background-image:url(../ke01_img/switch-off@2x.png);		-webkit-background-size:61px 27px;		}
+	.hide-toggle-v3{		background-image:url(../ke01_img/switch-off.png);		-webkit-background-size:61px 27px;		}
 
 
 
@@ -176,9 +176,9 @@
 
 
 
-	.show-toggle-v1{		background-image:url(../ke01_img/minus@2x.png);			-webkit-background-size:12px 12px;		}
+	.show-toggle-v1{		background-image:url(../ke01_img/minus.png);			-webkit-background-size:12px 12px;		}
 
-	.hide-toggle-v1{		background-image:url(../ke01_img/plus@2x.png);				-webkit-background-size:12px 12px;		}
+	.hide-toggle-v1{		background-image:url(../ke01_img/plus.png);				-webkit-background-size:12px 12px;		}
 
 
 
@@ -188,31 +188,31 @@
 
 	/*//////////*/
 
-	.checkbox-v1{	background-image:url(../ke01_img/checkbox@2x.png);						-webkit-background-size:16px 18px;}
+	.checkbox-v1{	background-image:url(../ke01_img/checkbox.png);						-webkit-background-size:16px 18px;}
 
-	.checked-v1{	background-image:url(../ke01_img/checkbox-selected@2x.png)!important;	-webkit-background-size:16px 18px;}
+	.checked-v1{	background-image:url(../ke01_img/checkbox-selected.png)!important;	-webkit-background-size:16px 18px;}
 
-	.checkbox-v2{	background-image:url(../ke01_img/checkbox2@2x.png);					-webkit-background-size:16px 18px;}
+	.checkbox-v2{	background-image:url(../ke01_img/checkbox2.png);					-webkit-background-size:16px 18px;}
 
-	.checked-v2{	background-image:url(../ke01_img/checkbox2-selected@2x.png)!important;	-webkit-background-size:16px 18px;}
+	.checked-v2{	background-image:url(../ke01_img/checkbox2-selected.png)!important;	-webkit-background-size:16px 18px;}
 
-	.checkbox-v3{	background-image:url(../ke01_img/empty@2x.png);						-webkit-background-size:16px 16px;}
+	.checkbox-v3{	background-image:url(../ke01_img/empty.png);						-webkit-background-size:16px 16px;}
 
-	.checked-v3{	background-image:url(../ke01_img/cross@2x.png)!important;				-webkit-background-size:16px 16px;}
+	.checked-v3{	background-image:url(../ke01_img/cross.png)!important;				-webkit-background-size:16px 16px;}
 
-	.checkbox-v4{	background-image:url(../ke01_img/empty@2x.png);						-webkit-background-size:16px 16px;}
+	.checkbox-v4{	background-image:url(../ke01_img/empty.png);						-webkit-background-size:16px 16px;}
 
-	.checked-v4{	background-image:url(../ke01_img/tick@2x.png)!important;				-webkit-background-size:16px 16px;}
+	.checked-v4{	background-image:url(../ke01_img/tick.png)!important;				-webkit-background-size:16px 16px;}
 
 
 
-	.radio-v1{		background-image:url(../ke01_img/radio@2x.png);						-webkit-background-size:16px 18px;}
+	.radio-v1{		background-image:url(../ke01_img/radio.png);						-webkit-background-size:16px 18px;}
 
-	.balled-v1{		background-image:url(../ke01_img/radio-selected@2x.png)!important;		-webkit-background-size:16px 18px;}
+	.balled-v1{		background-image:url(../ke01_img/radio-selected.png)!important;		-webkit-background-size:16px 18px;}
 
-	.radio-v2{		background-image:url(../ke01_img/radio2@2x.png);						-webkit-background-size:16px 18px;}
+	.radio-v2{		background-image:url(../ke01_img/radio2.png);						-webkit-background-size:16px 18px;}
 
-	.balled-v2{		background-image:url(../ke01_img/radio2-selected@2x.png)!important;	-webkit-background-size:16px 18px;}
+	.balled-v2{		background-image:url(../ke01_img/radio2-selected.png)!important;	-webkit-background-size:16px 18px;}
 
 
 
@@ -264,15 +264,15 @@
 
 
 
-	.posted-by{		background-image:url(../ke01_img/user@2x.png);	-webkit-background-size:12px 12px;}
+	.posted-by{		background-image:url(../ke01_img/user.png);	-webkit-background-size:12px 12px;}
 
-	.posted-at{		background-image:url(../ke01_img/time@2x.png);	-webkit-background-size:13px 12px;}
+	.posted-at{		background-image:url(../ke01_img/time.png);	-webkit-background-size:13px 12px;}
 
-	.posted-cat{	background-image:url(../ke01_img/cat@2x.png);	-webkit-background-size:16px 11px;}
+	.posted-cat{	background-image:url(../ke01_img/cat.png);	-webkit-background-size:16px 11px;}
 
-	.posted-tag{	background-image:url(../ke01_img/tag@2x.png);	-webkit-background-size:12px 12px;}
+	.posted-tag{	background-image:url(../ke01_img/tag.png);	-webkit-background-size:12px 12px;}
 
-	.posted-more{	background-image:url(../ke01_img/more@2x.png);	-webkit-background-size:17px 12px;}
+	.posted-more{	background-image:url(../ke01_img/more.png);	-webkit-background-size:17px 12px;}
 
 
 
